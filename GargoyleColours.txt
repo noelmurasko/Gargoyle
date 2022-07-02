@@ -1,56 +1,58 @@
 Gargoyle Colours
 
-Black (Lead): #222222
-Light Black (Carbon Color): #333333
-Dark Grey (Goshawk Grey Color): #444444
-Grey (Fuscous Grey): #54544E
-Light Grey (Stamped Concrete): #A2A29B
-White (Bleached Silk): #F3F3F2
+Description | Name | Hex
 
-Dark Red (Red Pigment): #EA2026
-Red (Forbidden Fruit): #FE7A7E
-Light Red (Aquarelle Red): #FEDADB
+Black | Lead | #222222
+Light Black | Carbon Color | #333333
+Dark Grey | Goshawk Grey Color | #444444
+Grey | Fuscous Grey | #54544E
+Light Grey | Stamped Concrete | #A2A29B
+White | Bleached Silk | #F3F3F2
 
-Dark Orange (Orange Brown): #BA6001
-Orange (Texas Sunset): #FD971F
-Light Orange (Venus Deathtrap): #FEDBB2
+Dark Red | Red Pigment | #EA2026
+Red | Forbidden Fruit | #FE7A7E
+Light Red | Aquarelle Red | #FEDADB
 
-Dark Yellow (Elysia Chlorotica): #9eac07
-Yellow (Yellowish Tan): #F1FA8C
-Light Yellow (Apple Martini): #FAFDDB
+Dark Orange | Orange Brown | #BA6001
+Orange | Texas Sunset | #FD971F
+Light Orange | Venus Deathtrap | #FEDBB2
 
-Dark Green (Kelley Green): #04AE2F
-Green (Thallium Flame): #50FA7B
-Light Green (Mint Zest): #CBFDD8
+Dark Yellow | Elysia Chlorotica | #9eac07
+Yellow | Yellowish Tan | #F1FA8C
+Light Yellow | Apple Martini | #FAFDDB
 
-Dark Blue (Dark Galaxy): #011CAA
-Blue (Blue Party Parrot): #7A8FFE
-Light Blue (Pale Phthalo Blue): #CAD2FE
+Dark Green | Kelley Green | #04AE2F
+Green | Thallium Flame | #50FA7B
+Light Green | Mint Zest | #CBFDD8
 
-Dark Magenta (Heliotrope Magenta): #AC01B2
-Magenta (Atomic Pink): #FA7AFE
-Light Magenta (Light Lavender): #FDCAFE
+Dark Blue | Dark Galaxy | #011CAA
+Blue | Blue Party Parrot | #7A8FFE
+Light Blue | Pale Phthalo Blue | #CAD2FE
 
-Dark Cyan (Salt Mountain): #D6FEFA
-Cyan (Dead Sea): #66D9EF
-Light Cyan (Cyan Blue): #14AAC7
+Dark Magenta | Heliotrope Magenta | #AC01B2
+Magenta | Atomic Pink | #FA7AFE
+Light Magenta | Light Lavender | #FDCAFE
 
-Dark Purple (Sweet Escape): #8947FF
-Purple (Lilac Geode): #BB95FF
-Light Purple (Japan Blush): #DCC9EF
+Dark Cyan | Salt Mountain | #D6FEFA
+Cyan | Dead Sea | #66D9EF
+Light Cyan | Cyan Blue | #14AAC7
 
-Dark Blue Grey (Asagi Koi): #48565A
-Blue Grey (Goblin Blue): #5B6F74
-Light Blue Grey (Stormhost Silver): #B8C4C7
+Dark Purple | Sweet Escape | #8947FF
+Purple | Lilac Geode | #BB95FF
+Light Purple | Japan Blush | #DCC9EF
 
-Dark Purple Grey (Royal Coronation): #382F3B
-Purple Grey (Montana Grape): #6C5A74
-Light Purple Grey (Perplexed): #C2B8C7
+Dark Blue Grey | Asagi Koi | #48565A
+Blue Grey | Goblin Blue | #5B6F74
+Light Blue Grey | Stormhost Silver | #B8C4C7
 
-Dark Red Grey (Black Coffee): #3B322F
-Red Grey (Raisin In The Sun): #74605A
-Light Red Grey (Fond Memory): #C7BBB8
+Dark Purple Grey | Royal Coronation | #382F3B
+Purple Grey | Montana Grape | #6C5A74
+Light Purple Grey | Perplexed | #C2B8C7
 
-Dark Green Grey (Duffel Bag): #323B3F
-Green Grey (Salamander): #62745A
-Light Green Grey (Desert Panzer): #BCC7B8
+Dark Red Grey | Black Coffee | #3B322F
+Red Grey | Raisin In The Sun | #74605A
+Light Red Grey | Fond Memory | #C7BBB8
+
+Dark Green Grey | Duffel Bag | #323B3F
+Green Grey | Salamander | #62745A
+Light Green Grey | Desert Panzer | #BCC7B8
