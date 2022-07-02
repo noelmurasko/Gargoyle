@@ -23,9 +23,17 @@ Dark Green (Kelley Green): #04AE2F
 Green (Thallium Flame): #50FA7B
 Light Green (Mint Zest): #CBFDD8
 
-Dark Blue (Salt Mountain): #D6FEFA
-Blue (Dead Sea): #66D9EF
-Light Blue (Cyan Blue): #14AAC7
+Dark Blue (Dark Galaxy): #011CAA
+Blue (Blue Party Parrot): #7A8FFE
+Light Blue (Pale Phthalo Blue): #CAD2FE
+
+Dark Magenta (Heliotrope Magenta): #AC01B2
+Magenta (Atomic Pink): #FA7AFE
+Light Magenta (Light Lavender): #FDCAFE
+
+Dark Cyan (Salt Mountain): #D6FEFA
+Cyan (Dead Sea): #66D9EF
+Light Cyan (Cyan Blue): #14AAC7
 
 Dark Purple (Sweet Escape): #8947FF
 Purple (Lilac Geode): #BB95FF
