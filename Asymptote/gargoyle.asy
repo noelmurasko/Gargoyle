@@ -3,6 +3,7 @@
 // Author: Noel Murasko
 // July 2, 2022 
 
+pen darkblack = rgb("101010");
 pen black = rgb("222222");
 pen lightblack = rgb("333333");
 pen darkgrey = rgb("444444");

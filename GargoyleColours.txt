@@ -2,6 +2,7 @@ Gargoyle Colours
 
 Description | Name | Hex
 
+Dark Black | Chaos Black | #101010
 Black | Lead | #222222
 Light Black | Carbon Color | #333333
 Dark Grey | Goshawk Grey Color | #444444
