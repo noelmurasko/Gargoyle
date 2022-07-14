@@ -1,59 +1,60 @@
 Gargoyle Colours
 
-Description | Name | Hex
+Description | Name | Hex | RGB | CMYK
+----
 
-Dark Black | Chaos Black | #101010
-Black | Lead | #222222
-Light Black | Carbon Color | #333333
-Dark Grey | Goshawk Grey Color | #444444
-Grey | Fuscous Grey | #54544E
-Light Grey | Stamped Concrete | #A2A29B
-White | Bleached Silk | #F3F3F2
+Dark Black | Chaos Black | #101010 | (16, 16, 16) | (0%, 0%, 0%, 93%)
+Black | Lead | #222222 | (34, 34, 34) | (0%, 0%, 0%, 86%)
+Light Black | Carbon Color | #333333 | (51, 51, 51) | (0%, 0%, 0%, 80%)
+Dark Grey | Goshawk Grey Color | #444444 | (68, 68, 68) | (0%, 0%, 0%, 73%)
+Grey | Fuscous Grey | #54544E | (84, 84, 78) | (0%, 0%, 7%, 67%)
+Light Grey | Stamped Concrete | #A2A29B | (162, 162, 155) | (0%, 0%, 4%, 36%)
+White | Bleached Silk | #F3F3F2 | (243, 243, 242) | (0%, 0%, 0%, 4%)
 
-Dark Red | Red Pigment | #EA2026
-Red | Forbidden Fruit | #FE7A7E
-Light Red | Aquarelle Red | #FEDADB
+Dark Red | Red Pigment | #EA2026 | (234, 32, 38) | (0%, 86%, 83%, 8%)
+Red | Forbidden Fruit | #FE7A7E | (254, 122, 126) | (0%, 51%, 50%, 0%)
+Light Red | Aquarelle Red | #FEDADB | (254, 218, 219) | (0%, 14%, 13%, 0%)
 
-Dark Orange | Orange Brown | #BA6001
-Orange | Texas Sunset | #FD971F
-Light Orange | Venus Deathtrap | #FEDBB2
+Dark Orange | Orange Brown | #BA6001 | (186, 96, 1) | (0%, 48%, 99%, 27%)
+Orange | Texas Sunset | #FD971F | (253, 151, 31) | (0%, 40%, 87%, 0%)
+Light Orange | Venus Deathtrap | #FEDBB2 | (254, 219, 178) | (0%, 13%, 29%, 0%)
 
-Dark Yellow | Elysia Chlorotica | #9eac07
-Yellow | Yellowish Tan | #F1FA8C
-Light Yellow | Apple Martini | #FAFDDB
+Dark Yellow | Elysia Chlorotica | #9eac07 | (158, 172, 7) | (8%, 0%, 95%, 32%)
+Yellow | Yellowish Tan | #F1FA8C | (241, 250, 140) | (3%, 0%, 43%, 1%)
+Light Yellow | Apple Martini | #FAFDDB | (250, 253, 219) | (1%, 0%, 13%, 0%)
 
-Dark Green | Kelley Green | #04AE2F
-Green | Thallium Flame | #50FA7B
-Light Green | Mint Zest | #CBFDD8
+Dark Green | Kelley Green | #04AE2F | (4, 174, 47) | (97%, 0%, 72%, 31%)
+Green | Thallium Flame | #50FA7B | (80, 250, 123) | (68%, 0%, 50%, 1%)
+Light Green | Mint Zest | #CBFDD8 | (203, 253, 216) | (19%, 0%, 14%, 0%)
 
-Dark Blue | Dark Galaxy | #011CAA
-Blue | Blue Party Parrot | #7A8FFE
-Light Blue | Pale Phthalo Blue | #CAD2FE
+Dark Blue | Dark Galaxy | #011CAA | (1, 28, 170) | (99%, 83%, 0%, 33%)
+Blue | Blue Party Parrot | #7A8FFE | (122, 143, 254) | (51%, 43%, 0%, 0%)
+Light Blue | Pale Phthalo Blue | #CAD2FE | (202, 210, 254) | (20%, 17%, 0%, 0%)
 
-Dark Magenta | Heliotrope Magenta | #AC01B2
-Magenta | Atomic Pink | #FA7AFE
-Light Magenta | Light Lavender | #FDCAFE
+Dark Magenta | Heliotrope Magenta | #AC01B2 | (172, 1, 178) | (3%, 99%, 0%, 30%)
+Magenta | Atomic Pink | #FA7AFE | (250, 122, 254) | (1%, 51%, 0%, 0%)
+Light Magenta | Light Lavender | #FDCAFE | (253, 202, 254) | (0%, 20%, 0%, 0%)
 
-Dark Cyan | Salt Mountain | #D6FEFA
-Cyan | Dead Sea | #66D9EF
-Light Cyan | Cyan Blue | #14AAC7
+Dark Cyan | Salt Mountain | #D6FEFA | (214, 254, 250) | (15%, 0%, 1%, 0%)
+Cyan | Dead Sea | #66D9EF | (102, 217, 239) | (57%, 9%, 0%, 6%)
+Light Cyan | Cyan Blue | #14AAC7 | (20, 170, 199) | (89%, 14%, 0%, 21%)
 
-Dark Purple | Sweet Escape | #8947FF
-Purple | Lilac Geode | #BB95FF
-Light Purple | Japan Blush | #DCC9EF
+Dark Purple | Sweet Escape | #8947FF | (137, 71, 255) | (46%, 72%, 0%, 0%)
+Purple | Lilac Geode | #BB95FF | (187, 149, 255) | (26%, 41%, 0%, 0%)
+Light Purple | Japan Blush | #DCC9EF | (220, 201, 239) | (7%, 15%, 0%, 6%)
 
-Dark Blue Grey | Asagi Koi | #48565A
-Blue Grey | Goblin Blue | #5B6F74
-Light Blue Grey | Stormhost Silver | #B8C4C7
+Dark Blue Grey | Asagi Koi | #48565A | (72, 86, 90) | (20%, 4%, 0%, 64%)
+Blue Grey | Goblin Blue | #5B6F74 | (91, 111, 116) | (21%, 4%, 0%, 54%)
+Light Blue Grey | Stormhost Silver | #B8C4C7 | (184, 196, 199) | (7%, 1%, 0%, 21%)
 
-Dark Purple Grey | Royal Coronation | #382F3B
-Purple Grey | Montana Grape | #6C5A74
-Light Purple Grey | Perplexed | #C2B8C7
+Dark Purple Grey | Royal Coronation | #382F3B | (56, 47, 59) | (5%, 20%, 0%, 76%)
+Purple Grey | Montana Grape | #6C5A74 | (108, 90, 116) | (6%, 22%, 0%, 54%)
+Light Purple Grey | Perplexed | #C2B8C7 | (194, 184, 199) | (2%, 7%, 0%, 21%)
 
-Dark Red Grey | Black Coffee | #3B322F
-Red Grey | Raisin In The Sun | #74605A
-Light Red Grey | Fond Memory | #C7BBB8
+Dark Red Grey | Black Coffee | #3B322F | (59, 50, 47) | (0%, 15%, 20%, 76%)
+Red Grey | Raisin In The Sun | #74605A | (116, 96, 90) | (0%, 17%, 22%, 54%)
+Light Red Grey | Fond Memory | #C7BBB8 | (199, 187, 184) | (0%, 6%, 7%, 21%)
 
-Dark Green Grey | Duffel Bag | #323B3F
-Green Grey | Salamander | #62745A
-Light Green Grey | Desert Panzer | #BCC7B8
+Dark Green Grey | Duffel Bag | #323B3F | (50, 59, 63) | (20%, 6%, 0%, 75%)
+Green Grey | Salamander | #62745A | (98, 116, 90) | (15%, 0%, 22%, 54%)
+Light Green Grey | Desert Panzer | #BCC7B8 | (188, 199, 184) | (5%, 0%, 7%, 21%)
