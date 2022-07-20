@@ -4,7 +4,7 @@ Description | Name | Hex | RGB | CMYK
 ----
 
 Dark Black | Chaos Black | #101010 | (16, 16, 16) | (0%, 0%, 0%, 93%)
-Black | Lead | #222222 | (34, 34, 34) | (0%, 0%, 0%, 86%)
+Black | Lead | #222222| (34, 34, 34) | (0%, 0%, 0%, 86%)
 Light Black | Carbon Color | #333333 | (51, 51, 51) | (0%, 0%, 0%, 80%)
 Dark Grey | Goshawk Grey Color | #444444 | (68, 68, 68) | (0%, 0%, 0%, 73%)
 Grey | Fuscous Grey | #54544E | (84, 84, 78) | (0%, 0%, 7%, 67%)
@@ -35,9 +35,9 @@ Dark Magenta | Heliotrope Magenta | #AC01B2 | (172, 1, 178) | (3%, 99%, 0%, 30%)
 Magenta | Atomic Pink | #FA7AFE | (250, 122, 254) | (1%, 51%, 0%, 0%)
 Light Magenta | Light Lavender | #FDCAFE | (253, 202, 254) | (0%, 20%, 0%, 0%)
 
-Dark Cyan | Salt Mountain | #D6FEFA | (214, 254, 250) | (15%, 0%, 1%, 0%)
+Dark Cyan | Cyan Blue | #14AAC7 | (20, 170, 199) | (89%, 14%, 0%, 21%)
 Cyan | Dead Sea | #66D9EF | (102, 217, 239) | (57%, 9%, 0%, 6%)
-Light Cyan | Cyan Blue | #14AAC7 | (20, 170, 199) | (89%, 14%, 0%, 21%)
+Light Cyan | Salt Mountain | #D6FEFA | (214, 254, 250) | (15%, 0%, 1%, 0%)
 
 Dark Purple | Sweet Escape | #8947FF | (137, 71, 255) | (46%, 72%, 0%, 0%)
 Purple | Lilac Geode | #BB95FF | (187, 149, 255) | (26%, 41%, 0%, 0%)

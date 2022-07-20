@@ -35,9 +35,9 @@ pen darkmagenta = rgb("AC01B2");
 pen magenta = rgb("FA7AFE");
 pen lightmagenta = rgb("FDCAFE");
 
-pen darkcyan = rgb("D6FEFA");
+pen darkcyan = rgb("14AAC7");
 pen cyan = rgb("66D9EF");
-pen lightcyan = rgb("14AAC7");
+pen lightcyan = rgb("D6FEFA");
 
 pen darkpurple = rgb("8947FF");
 pen purple = rgb("BB95FF");
@@ -58,3 +58,7 @@ pen lightredgrey = rgb("C7BBB8");
 pen darkgreengrey = rgb("323B3F");
 pen greengrey = rgb("62745A");
 pen lightgreengrey = rgb("BCC7B8");
+
+defaultpen(white);
+currentlight.background = black;
+
