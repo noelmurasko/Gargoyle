@@ -38,15 +38,15 @@ def pallete():
 	file=open('GargoyleColours.txt','r')
 	text=file.read()
 	start=text.find('----',0)+5
-	while start < len(text):
+	while start > 0:
 		b1=text.find('|',start)
 		b2=text.find('|',b1+1)
-		description=text[start:b1-1]
-		if description[0]=="\n":
-			description = description[1:]
-		name=text[b1+2:b2-1]
-		hexCode=text[b2+2:b2+9]
+		description=text[start:b1-1].replace("\n", "")
+		#description.replace("\n", "")
+		print(description)
+		name=text[b1+2:b2-1].replace("\n", "")
+		hexCode=text[b2+2:b2+9].replace("\n", "")
 		pallete.append(Colour(description, name, hexCode))
-		start=b2+10
+		start=text.find('\n',b1)
 	file.close()
 	return pallete
