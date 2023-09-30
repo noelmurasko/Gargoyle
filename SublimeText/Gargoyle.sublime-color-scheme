@@ -1,0 +1,270 @@
+// Documentation at https://www.sublimetext.com/docs/color_schemes.html
+{
+	"name": "Gargoyle Color Scheme",
+	"variables":
+	{
+		"white": "#F3F3F2",
+		"darkblack": "#101010",
+		"black": "#222222",
+		"lightblack": "#333333",
+		"darkgrey": "#444444",
+		"grey": "#54544E",
+		"lightgrey": "#A2A29B",
+
+		"darkred": "#EA2026",
+		"red": "#FE7A7E",
+		"lightred": "#FEDADB",
+
+		"darkorange": "#BA6001",
+		"orange": "#FD971F",
+		"lightorange": "#FEDBB2",
+
+		"darkyellow": "#9eac07",
+		"yellow": "#F1FA8C",
+		"lightyellow": "#FAFDDB",
+
+		"darkgreen": "#04AE2F",
+		"green": "#50FA7B",
+		"lightgreen": "#CBFDD8",
+
+		"darkblue": "#011CAA",
+		"blue": "#7A8FFE",
+		"lightblue": "#CAD2FE",
+
+		"darkmagenta": "#AC01B2",
+		"magenta": "#FA7AFE",
+		"lightmagenta": "#FDCAFE",
+
+		"darkcyan": "#14AAC7",
+		"cyan": "#66D9EF",
+		"lightcyan": "#D6FEFA",
+
+		"darkpurple": "#8947FF",
+		"purple": "#BB95FF",
+		"lightpurple": "#DCC9EF",
+
+		"darkbluegrey": "#48565A",
+		"bluegrey": "#5B6F74",
+		"lightbluegrey": "#B8C4C7",
+
+		"darkpurplegrey": "#382F3B",
+		"purplegrey": "#6C5A74",
+		"lightpurplegrey": "#C2B8C7",
+
+		"darkredgrey": "#3B322F",
+		"redgrey": "#74605A",
+		"lightredgrey": "#C7BBB8",
+
+		"darkgreengrey": "#323B3F",
+		"greengrey": "#62745A",
+		"lightgreengrey": "#BCC7B8",
+	},
+	"globals":
+	{
+		"background": "var(black)",
+		"foreground": "var(white)",
+		"invisibles": "var(grey)",
+		"caret": "var(white)",
+		"block_caret": "var(darkgrey)",
+		"block_caret_border": "var(lightgrey)",
+		"block_caret_underline": "var(white)",
+		"block_caret_corner_style": "square",
+		"line_highlight": "var(lightblack)",
+
+		"misspelling": "var(darkred)",
+		"fold_marker": "var(orange)",
+		"minimap_border": "var(purplegrey)",
+		"accent": "var(bluegrey)",
+
+		"gutter": "var(black)",
+		"gutter_foreground": "var(purplegrey)",
+		"gutter_foreground_highlight": "var(lightpurplegrey)",
+
+		"line_diff_width": "4",
+		"line_diff_added": "var(purple)",
+		"line_diff_modified": "var(yellow)",
+		"line_diff_deleted": "var(red)",
+
+		"selection": "var(lightblack)",
+		//"selection": "var(cyan)",
+		//"selection_foreground": "var(darkblack)",
+		"selection_border": "var(lightblack)",
+		"selection_border_width": "1",
+		"inactive_selection": "var(lightblack)",
+		"inactive_selection_border": "var(black)",
+
+		"highlight": "var(darkcyan)",
+		"find_highlight": "var(cyan)",
+		"find_highlight_foreground": "var(darkblack)",
+		"scroll_highlight": "var(cyan)",
+		"scroll_selected_highlight": "var(lightorange)",
+
+		"rulers": "var(grey)",
+		"guide": "var(grey)",
+		"active_guide": "var(lightgrey)",
+		"stack_guide": "var(grey)",
+
+		"brackets_options": "underline",
+		"brackets_foreground": "var(purple)",
+		"bracket_contents_options": "underline",
+		"bracket_contents_foreground": "var(purple)",
+
+		"tags_options": "underline",
+		"tags_foreground": "var(orange)",
+
+		"shadow": "var(lightblack)",
+		"shadow_width": "15",
+	},
+	"rules":
+	[
+		{
+	    "name": "Name",
+	    "scope": "entity.name",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Class Name",
+	    "scope": "entity.name.class",
+	    "foreground": "var(green)",
+		},
+		{
+	    "name": "Inherited-class",
+	    "scope": "entity.other.inherited-class",
+	    "foreground": "var(green)",
+	    "font_style": "italic"
+		},
+		{
+	    "name": "Tag",
+	    "scope": "entity.name.tag",
+	    "foreground": "var(red)",
+		},
+		{
+	    "name": "Tag Attribute",
+	    "scope": "entity.other.attribute-name",
+	    "foreground": "var(green)",
+		},
+		{
+	    "name": "Variable",
+	    "scope": "variable",
+	    "foreground": "var(white)",
+		},
+		{
+	    "name": "Reserved Variable",
+	    "scope": "variable.language",
+	    "foreground": "var(magenta)",
+		},
+		{
+	    "name": "Function Argument",
+	    "scope": "variable.parameter",
+	    "foreground": "var(orange)",
+		},
+		{
+	    "name": "Function",
+	    "scope": "variable.function",
+	    "foreground": "var(cyan)",
+		},
+		{
+	    "name": "Constant",
+	    "scope": "constant",
+	    "foreground": "var(purple)",
+		},
+		{
+	    "name": "Number",
+	    "scope": "constant.numeric",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Built-in constant",
+	    "scope": "constant",
+	    "foreground": "var(purple)",
+		},
+		{
+	    "name": "Character Escape",
+	    "scope": "constant.character.escape",
+	    "foreground": "var(purple)",
+		},
+		{
+	    "name": "Storage",
+	    "scope": "storage",
+	    "foreground": "var(red)",
+		},
+		{
+	    "name": "Support",
+	    "scope": "support",
+	    "foreground": "var(cyan)",
+		},
+		{
+	    "name": "Keyword",
+	    "scope": "keyword",
+	    "foreground": "var(red)",
+		},
+		{
+	    "name": "Conditionals",
+	    "scope": "keyword.control.conditional",
+	    "foreground": "var(red)",
+	    "font_style": "italic",
+		},
+		{
+	    "name": "Logical Operator",
+	    "scope": "keyword.operator.logical",
+	    "foreground": "var(red)",
+	    "font_style": "italic",
+		},
+		{
+	    "name": "String",
+	    "scope": "string",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Comment",
+	    "scope": "comment",
+	    "foreground": "var(bluegrey)",
+		},
+		{
+	    "name": "Latex Equation Inline",
+	    "scope": "meta.environment.math.inline",
+	    "foreground": "var(yellow)",
+	    "font_style": "italic",
+		},
+		{
+	    "name": "Latex Equation Block",
+	    "scope": "meta.environment.math.block",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Environment Parameter",
+	    "scope": "variable.parameter.function.latex",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Greek Letters",
+	    "scope": "keyword.other.greek",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Math Operator",
+	    "scope": "keyword.operator.math.tex",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Math Variable",
+	    "scope": "variable.other.math.tex",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Math Commands",
+	    "scope": "support.function.math.tex",
+	    "foreground": "var(yellow)",
+		},
+		{
+	    "name": "Latex Character Parenthesis",
+	    "scope": "constant.character.parenthesis.tex",
+	    "foreground": "var(purple)",
+		},
+		{
+	    "name": "Latex Text Function",
+	    "scope": "support.function.text.latex",
+	    "foreground": "var(yellow)",
+		},
+	]
+}

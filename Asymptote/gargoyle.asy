@@ -1,7 +1,7 @@
 // Gargoyle Pens Module
 //
 // Author: Noel Murasko
-// July 2, 2022 
+// July 2, 2022
 
 pen darkblack = rgb("101010");
 pen black = rgb("222222");
