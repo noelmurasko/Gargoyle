@@ -61,4 +61,3 @@ pen lightgreengrey = rgb("BCC7B8");
 
 defaultpen(white);
 currentlight.background = black;
-
